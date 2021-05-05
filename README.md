@@ -16,7 +16,9 @@ From the job titles of the eligible retirees, the breakdown is below.
 8,047 Senior Staff
 4,502 Technique Leader
 1,761 Assistant Engineer
-Summary
+</br><img width="202" alt="title count" src="https://user-images.githubusercontent.com/74282781/117108726-748b6b80-ad38-11eb-9f11-9264bc2b804a.png">
+
+## Summary
 Provide high-level responses to the following questions, then provide two additional queries or tables that may provide more insight into the upcoming "silver tsunami.":
 
 1) How many roles will need to be filled as the "silver tsunami" begins to make an impact?.
@@ -25,4 +27,4 @@ Provide high-level responses to the following questions, then provide two additi
 
 2) Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
 
-No, we have 1,940 employees who are eligible to participate in a mentorship program.
+No, we have 1594 employees who are eligible to participate in a mentorship program.

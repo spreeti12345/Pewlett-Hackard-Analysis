@@ -1,2 +1,28 @@
 # Pewlett-Hackard-Analysis
-using pregressSQL
+
+## Overview of the analysis
+Explain the purpose of this analysis.:</br>
+
+In this deliverable, Bobby was tasked to determine the number of retiring employees per title, and identify employees who are eligible to participate in a mentorship program. Then, you’ll write a report that summarizes your analysis and helps prepare Bobby’s manager for the “silver tsunami” as many current employees reach retirement age.</br>
+
+## Results
+Provide a bulleted list with four major points from the two analysis deliverables. Use images as support where needed:
+
+From the finding of the eligible retirees, High Percentage of the workforce could retire at any given time.
+From the job titles of the eligible retirees, the breakdown is below.
+32,452 Staff
+29,415 Senior Engineer
+14,221 Engineer
+8,047 Senior Staff
+4,502 Technique Leader
+1,761 Assistant Engineer
+Summary
+Provide high-level responses to the following questions, then provide two additional queries or tables that may provide more insight into the upcoming "silver tsunami.":
+
+1) How many roles will need to be filled as the "silver tsunami" begins to make an impact?.
+
+90,398 roles are in urgent need to be filled out as soon as the workforce starts retiring at any given time.
+
+2) Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
+
+No, we have 1,940 employees who are eligible to participate in a mentorship program.

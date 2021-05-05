@@ -10,13 +10,16 @@ Provide a bulleted list with four major points from the two analysis deliverable
 
 From the finding of the eligible retirees, High Percentage of the workforce could retire at any given time.
 From the job titles of the eligible retirees, the breakdown is below.
-32,452 Staff
-29,415 Senior Engineer
+29414 Staff
+28254 Senior Engineer
 14,221 Engineer
-8,047 Senior Staff
+12,243 Senior Staff
 4,502 Technique Leader
 1,761 Assistant Engineer
 </br><img width="202" alt="title count" src="https://user-images.githubusercontent.com/74282781/117108726-748b6b80-ad38-11eb-9f11-9264bc2b804a.png">
+
+<img width="650" alt="mentorship eligibility" src="https://user-images.githubusercontent.com/74282781/117109243-35a9e580-ad39-11eb-97cb-a46b16e10445.png">
+
 
 ## Summary
 Provide high-level responses to the following questions, then provide two additional queries or tables that may provide more insight into the upcoming "silver tsunami.":
